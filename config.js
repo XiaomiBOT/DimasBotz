@@ -473,7 +473,7 @@ global.nameowner = 'Langz'
 global.umurowner = '15'
 global.asalowner = 'Riau, PekanBaru'
 global.nomorowner = 'wa.me/62895634865955'
-global.pacarowner = 'Ga ada pacar:')'
+global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
